@@ -1,0 +1,26 @@
+.now-time {
+  font-size: 25px;
+  margin-left: 10px;
+}
+header div {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+header div i {
+  margin: 10px 3px;
+}
+.chat-icons {
+  margin-right: 20px;
+}
+.chat-icons i {
+  margin-left: 20px;
+  margin-top: 18px;
+}
+.page-title {
+  font-size: 40px;
+  margin-left: 20px;
+}
+.now-time {
+  margin-left: 20px;
+}
